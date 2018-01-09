@@ -13,13 +13,8 @@ lastupdated: "2017-10-12"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Video: Network as a Service
+# Network as a Service
 {: #naas-video}
 
-Add security, resiliency and performance using new IBM cloud offerings.
-
-<p>
-  <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" id="youtubeplayer" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/sSfTcxDrmSI?rel=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
-  </div>
-</p>
+Add security, resiliency and performance using the new IBM Cloud offerings.
+<a href="https://console.bluemix.net/catalog/infrastructure/load-balancer-group">Read more here.</a>    
